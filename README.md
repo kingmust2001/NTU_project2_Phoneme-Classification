@@ -42,6 +42,8 @@ CROSSENTROPYLOSS
 
 Note:This criterion combines LogSoftmax and NLLLoss in one single class.
 ## 成果
-
+epoch: 20
+* Train Acc: 0.790643 Loss: 0.636623 
+* Val Acc: 0.699732 loss: 0.964269
 ## Reference
 https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
